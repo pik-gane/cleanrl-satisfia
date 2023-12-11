@@ -1,3 +1,7 @@
+SatisfIA fork including additional non-maximizing agents.
+
+Original README.md:
+
 # CleanRL (Clean Implementation of RL Algorithms)
 
 
